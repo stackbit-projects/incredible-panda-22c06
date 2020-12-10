@@ -27,7 +27,7 @@ params:
         url: /contact/
         style: link
   footer:
-    content: '&copy; Stackbit-Exto. All rights reserved.'
+    content: '&copy; Kevin Chu. All rights reserved.'
     links:
       - label: Made with Stackbit.
         url: 'https://www.stackbit.com'
